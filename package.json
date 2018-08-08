@@ -15,6 +15,9 @@
     "schedule",
     "cron"
   ],
+  "engines": {
+    "node": "6.5.0"
+  },
   "dependencies": {
     "node-schedule": "~1.0.0",
     "cron-parser": "~1.0.1"
